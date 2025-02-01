@@ -1,2 +1,5 @@
-# Electricity-Physics
-Production and Use of Electric Current &amp; Electrotechnics and Electrical Machines &amp; Electronics
+<h2>Production and Use of Electric Current & Electrotechnics and Electrical Machines & Electronics</h2>
+
+<img align="right" alt="electricity" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A0dHFiam4wdXV3ZWtmanBuYjM4NXc3M3hxbjlsYjY1cnlnY3RkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mDuVMstBA0uEdwFCG/giphy.gif">
+
+&emsp;About this Repo: **In the second year of my studies at the Faculty of Navigation and Naval Management, specializing in Maritime and Fluvial Navigation and Transport, within the 'Mircea cel Bătrân' Naval Academy in Constanța, I had the opportunity to study the courses 'Electrotechnics and Electrical Machines' and 'Electronics.' During these courses, I carried out various laboratory assignments using the Falstad.com web application to design and explain detailed electrical diagrams. <br>&emsp;I analyzed parameter values, such as resistances (including internal resistance), series and parallel configurations, electrical currents in cables, and voltages, including electromotive force. I was also required to attach photographs of the created diagrams and compile brief documentation in MS Word for certain assignments. <br>&emsp;Furthermore, I included and solved several exercises from the 'Production and Use of Electric Current' section of the high school graduation exam materials. These were completed with the assistance of a graphic tablet and a drawing application.**
