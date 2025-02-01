@@ -7,7 +7,7 @@
 &emsp;Furthermore, I included and solved several exercises from the 'Production and Use of Electric Current' section of the high school graduation exam materials. These were completed with the assistance of a graphic tablet and a drawing application.**
 
 <br><br>
-<h3>Electrotechnics and Electrical Machines</h3>
+<h3>Electronics</h3>
 <hr>
 
 <div align="center" style="display: grid; 
@@ -45,5 +45,58 @@
                                                 transform: scale(1.02);
                                             }" 
         src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L2/Image_NPN_output_characteristic.png">
-    <!-- Repetă pentru restul imaginilor -->
+      <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+        src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L3/Image.png">
+   <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+       src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L4/Image4_1.png">
+   <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+      src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L4/Image4_2.png">
+  <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_1.png">
+  <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_2.png">
+  <img alt="electricity" width="400" style="width: 100%; 
+                                            max-width: 400px;
+                                            border-radius: 8px;
+                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+                                            transition: transform 0.3s ease;
+                                            &:hover {
+                                                transform: scale(1.02);
+                                            }" 
+     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_3.png">
 </div>
