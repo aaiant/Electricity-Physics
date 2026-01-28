@@ -1,102 +1,59 @@
-<h2>Production and Use of Electric Current & Electrotechnics and Electrical Machines & Electronics</h2>
+# ⚡ Electricity & Electronics Engineering Lab
 
-<img align="right" alt="electricity" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3A0dHFiam4wdXV3ZWtmanBuYjM4NXc3M3hxbjlsYjY1cnlnY3RkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3mDuVMstBA0uEdwFCG/giphy.gif">
+**Engineering simulations and technical documentation for electrical circuits, electronic components, and electrotechnical systems.**  
+This repository contains practical lab work focused on circuit analysis, transistor behavior, and electrical machine fundamentals using simulation tools and engineering methodology.
 
-&emsp;About this Repo: **In the second year of my studies at the Faculty of Navigation and Naval Management, specializing in Maritime and Fluvial Navigation and Transport, within the 'Mircea cel Bătrân' Naval Academy in Constanța, I had the opportunity to study the courses 'Electrotechnics and Electrical Machines' and 'Electronics.' During these courses, I carried out various laboratory assignments using the Falstad.com web application to design and explain detailed electrical diagrams. <br>
-&emsp;I analyzed parameter values, such as resistances (including internal resistance), series and parallel configurations, electrical currents in cables, and voltages, including electromotive force. I was also required to attach photographs of the created diagrams and compile brief documentation in MS Word for certain assignments. <br>
-&emsp;Furthermore, I included and solved several exercises from the 'Production and Use of Electric Current' section of the high school graduation exam materials. These were completed with the assistance of a graphic tablet and a drawing application.**
+---
 
-<br><br>
-<h3>Electronics</h3>
-<hr>
+## 📌 Overview
 
-<div align="center" style="display: grid; 
-                          grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-                          gap: 20px;
-                          padding: 20px;
-                          background-color: #f5f5f5;
-                          border-radius: 10px;
-                          max-width: 1200px;
-                          margin: 0 auto;">
-    <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L1/Image_L1.png">
-    <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L2/Image_NPN_common_emitter.png">
-    <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L2/Image_NPN_output_characteristic.png">
-      <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-        src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L3/Image.png">
-   <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-       src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L4/Image4_1.png">
-   <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-      src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L4/Image4_2.png">
-  <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_1.png">
-  <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_2.png">
-  <img alt="electricity" width="400" style="width: 100%; 
-                                            max-width: 400px;
-                                            border-radius: 8px;
-                                            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-                                            transition: transform 0.3s ease;
-                                            &:hover {
-                                                transform: scale(1.02);
-                                            }" 
-     src="https://github.com/aaiant/Electricity-Physics/blob/main/Electronics/L5/Image5_3.png">
-</div>
+This project documents a series of **electrical and electronics engineering labs** developed as part of the *Electrotechnics, Electrical Machines, and Electronics* coursework at the **“Mircea cel Bătrân” Naval Academy, Constanța**.
+
+The focus is on:
+- Designing and simulating real-world electrical circuits
+- Analyzing electrical parameters and component behavior
+- Documenting results using engineering standards
+
+All experiments were created using **Falstad Circuit Simulator** and verified through theoretical calculations.
+
+---
+
+## 🧠 Engineering Objectives
+
+- Model DC and AC electrical circuits
+- Analyze current flow, voltage drops, and internal resistance
+- Study transistor operation in common-emitter configurations
+- Evaluate electrical machine fundamentals
+- Produce technical documentation for reproducibility and validation
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Falstad Circuit Simulator (Web-based)**
+- Microsoft Word (Technical Reports)
+- Graphic Tablet (Handwritten Engineering Solutions)
+- Engineering Mathematics & Circuit Theory
+
+---
+
+## 🧪 Laboratory Modules
+
+| Module | Topic | Description |
+|--------|------|-------------|
+| L1 | Basic Circuits | Ohm’s Law, Kirchhoff’s Laws, Series & Parallel Networks |
+| L2 | Transistors | NPN Common Emitter Configuration & Output Characteristics |
+| L3 | Amplifiers | Signal behavior and voltage gain analysis |
+| L4 | Power Systems | Voltage regulation and load simulation |
+| L5 | Electronic Systems | Component-level system modeling |
+
+---
+
+## 📂 Repository Structure
+- Electronics/
+  - 📂 L1
+  - 📂 L2
+  - 📂 L3
+  - 📂 L4
+  - 📂 L5
+- 📄 Documentation
