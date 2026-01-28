@@ -1,59 +1,51 @@
-# ⚡ Electricity & Electronics Engineering Lab
+# ⚡ Electricity, Electronics & Electrotechnics Engineering Lab
 
-**Engineering simulations and technical documentation for electrical circuits, electronic components, and electrotechnical systems.**  
-This repository contains practical lab work focused on circuit analysis, transistor behavior, and electrical machine fundamentals using simulation tools and engineering methodology.
+**Engineering simulations and technical documentation for electrical circuits, electronic systems, and electrical machines.**  
+This repository contains structured laboratory work, analytical exercises, and engineering documentation developed as part of coursework at the **“Mircea cel Bătrân” Naval Academy, Constanța**.
 
 ---
 
 ## 📌 Overview
 
-This project documents a series of **electrical and electronics engineering labs** developed as part of the *Electrotechnics, Electrical Machines, and Electronics* coursework at the **“Mircea cel Bătrân” Naval Academy, Constanța**.
+This project documents a complete learning and experimentation path in:
+- Electrical circuit analysis
+- Electronic component behavior
+- Electrotechnical systems and electrical machines
+- Engineering documentation and validation methodology
 
-The focus is on:
-- Designing and simulating real-world electrical circuits
-- Analyzing electrical parameters and component behavior
-- Documenting results using engineering standards
-
-All experiments were created using **Falstad Circuit Simulator** and verified through theoretical calculations.
+All experiments are supported by simulations and theoretical calculations to ensure reproducibility and technical accuracy.
 
 ---
 
 ## 🧠 Engineering Objectives
 
-- Model DC and AC electrical circuits
-- Analyze current flow, voltage drops, and internal resistance
-- Study transistor operation in common-emitter configurations
-- Evaluate electrical machine fundamentals
-- Produce technical documentation for reproducibility and validation
+- Model and simulate DC and AC electrical circuits  
+- Analyze voltage drops, current flow, and internal resistance  
+- Study transistor behavior and signal amplification  
+- Understand operating principles of electrical machines  
+- Apply engineering documentation standards for technical reporting  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
 - **Falstad Circuit Simulator (Web-based)**
+- Engineering Mathematics & Circuit Theory
 - Microsoft Word (Technical Reports)
 - Graphic Tablet (Handwritten Engineering Solutions)
-- Engineering Mathematics & Circuit Theory
-
----
-
-## 🧪 Laboratory Modules
-
-| Module | Topic | Description |
-|--------|------|-------------|
-| L1 | Basic Circuits | Ohm’s Law, Kirchhoff’s Laws, Series & Parallel Networks |
-| L2 | Transistors | NPN Common Emitter Configuration & Output Characteristics |
-| L3 | Amplifiers | Signal behavior and voltage gain analysis |
-| L4 | Power Systems | Voltage regulation and load simulation |
-| L5 | Electronic Systems | Component-level system modeling |
 
 ---
 
 ## 📂 Repository Structure
-- Electronics/
+📦 Electricity-Physics
+- 📂 Electricity and Mechanics Exercises
+  - 📄 Foundational circuit and physics problem sets
+- 📂 Electronics
   - 📂 L1
   - 📂 L2
   - 📂 L3
   - 📂 L4
   - 📂 L5
-- 📄 Documentation
+- 📂 Electrotechnics and Electrical Machines
+  - 📄 Electrical machine and electrotechnical system analysis
+- 📄 README.md
