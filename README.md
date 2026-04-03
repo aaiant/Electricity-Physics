@@ -38,8 +38,6 @@ All experiments are supported by simulations and theoretical calculations to ens
 
 ## 📂 Repository Structure
 📦 Electricity-Physics
-- 📂 Electricity and Mechanics Exercises
-  - 📄 Foundational circuit and physics problem sets
 - 📂 Electronics
   - 📂 L1
   - 📂 L2
