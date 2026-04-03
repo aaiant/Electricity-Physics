@@ -10,7 +10,6 @@ This repository contains structured laboratory work, analytical exercises, and e
 This project documents a complete learning and experimentation path in:
 - Electrical circuit analysis
 - Electronic component behavior
-- Electrotechnical systems and electrical machines
 - Engineering documentation and validation methodology
 
 All experiments are supported by simulations and theoretical calculations to ensure reproducibility and technical accuracy.
@@ -32,7 +31,6 @@ All experiments are supported by simulations and theoretical calculations to ens
 - **Falstad Circuit Simulator (Web-based)**
 - Engineering Mathematics & Circuit Theory
 - Microsoft Word (Technical Reports)
-- Graphic Tablet (Handwritten Engineering Solutions)
 
 ---
 
